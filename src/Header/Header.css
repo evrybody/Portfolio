@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "DreiFraktur";
+  src: url("../../DreiFraktur.ttf") format("truetype");
+}
+
+.header {
+  color: #fffff0;
+  border: 1px solid #afafaf;
+  position: absolute;
+  width: 99.9%;
+  background: none;
+  display: flex;
+  justify-content: center;
+  font-family: "DreiFraktur", sans-serif;
+}

@@ -1,0 +1,16 @@
+.content {
+    height: 75dvh;
+    background-color: black;
+    border: 1px solid #fffff0;
+    color: white
+}
+
+.content img {
+    position: relative;
+    width: 15%;
+}
+.content-wrapper {
+    position: absolute;
+    right: 0;
+    font-size: 99px;
+}
