@@ -7,8 +7,13 @@
   pointer-events: none;
 }
 
-html{
+html {
   width: 100%;
+}
+
+@font-face {
+  font-family: "GFS Didot";
+  src: url("/GFSDidot-Regular.ttf");
 }
 
 @media (prefers-reduced-motion: no-preference) {

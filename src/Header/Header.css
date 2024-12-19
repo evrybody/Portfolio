@@ -1,8 +1,3 @@
-@font-face {
-  font-family: "DreiFraktur";
-  src: url("../../DreiFraktur.ttf") format("truetype");
-}
-
 .header {
   color: #fffff0;
   border: 1px solid #afafaf;
@@ -11,5 +6,5 @@
   background: none;
   display: flex;
   justify-content: center;
-  font-family: "DreiFraktur", sans-serif;
+  font-family: "GFS Didot", sans-serif;
 }
